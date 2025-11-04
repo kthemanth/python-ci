@@ -2,4 +2,4 @@ import unittest
 
 class TestSample(unittest.TestCase):
     def test_sample(self):
-        self.assertEqual(12, 12)
+        self.assertEqual(42, 42)
